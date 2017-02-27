@@ -14,3 +14,5 @@ CREATIVE - RESPONSIBLE AND SPECIAL BEAUTIFUL WEB DESIGN.
 
 # Credits
 
+#Tags
+creative, responsive template, flat design, smooth design, PostCSS, SASS, Bootstrap, Bootstrap v4, free template.
