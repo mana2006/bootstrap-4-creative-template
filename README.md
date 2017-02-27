@@ -1,7 +1,7 @@
 # bootstrap-4-creative-template
 CREATIVE - RESPONSIBLE AND SPECIAL BEAUTIFUL WEB DESIGN.
 
-# technolog
+# technology
 - PostCSS
 - SASS
 - Bootstrap v4
