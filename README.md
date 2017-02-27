@@ -1,6 +1,5 @@
 # bootstrap-4-creative-template
-Now, we a L&D development team.
-CREATIVE - RESPONSIBLE AND, SPECIAL, BEAUTIFUL WEB DESIGN.
+CREATIVE - RESPONSIBLE AND SPECIAL BEAUTIFUL WEB DESIGN.
 
 # technolog
 - PostCSS
@@ -13,4 +12,5 @@ CREATIVE - RESPONSIBLE AND, SPECIAL, BEAUTIFUL WEB DESIGN.
 
 # IMG
 
+# Credits
 
